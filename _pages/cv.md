@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "简历 / CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,57 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## 教育经历
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**深圳大学 · 微众金融科技学院** · 本科 · 2024.09 — 2028.06（预计）
+- GPA：78.8/100
+- 主修课程：C 语言程序设计（88）、计算机网络（90）、宏观经济学（85）、数学建模（85）
+- 荣誉：大学英语六级（580 分）、计算机二级证书（WPS 方向）
+- CFA 一级备考中
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## 实习经历
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### 行业分析师助理 · 沙利文（Frost & Sullivan）咨询公司
+*2025.01 — 2025.02*
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- 负责多行业数据收集与信息检索，完成数据核对与清洗
+- 独立完成 AI 玩具、碳纤维复合材料、12英寸硅片等赛道市场规模测算
+- 搭建测算模型并进行数据验证与逻辑校准
+- 累计绘制数据图表数十张，修改行业分析内容多篇
+
+## 项目经历
+
+### 深圳国际金融科技大赛 — 数字银行用户流失预测
+*2024.09 — 2024.11 · 组员*
+
+- 使用 Python 完成数字银行用户流失预测全流程分析
+- 对银行用户数据完成特征编码与数据标准化
+- 使用随机森林模型，通过交叉验证优化参数
+- 基于模型输出的高风险用户群体，设计个性化干预方案
+
+### 数学建模 — 日前电价预测
+*2025-2026 学年 · 组员*
+
+- 基于 MATLAB 完成多源数据预处理与时间序列建模
+- 构建 ARIMA、LSTM、随机森林等模型进行电价预测
+- 通过多维验证筛选最优模型
+
+### 实训课 — 明川银行 AI 反欺诈预警系统立项分析
+*2026.07 · 独立完成*
+
+- 基于多源材料完成立项分析报告与管理层汇报 PPT
+- 处理管理层变更卡，完成跨文档一致性核验
+
+## 技能
+
+- **编程语言**：C、C++、Python、MATLAB、R
+- **数据分析**：Python（Pandas/NumPy）、R（计量经济学建模）、Excel
+- **金融素养**：宏观经济学、计量经济学（Wooldridge）、金融学基础
+- **语言能力**：中文（母语）、英语（CET-6 580 分）
+- **工具**：Git、MATLAB、Jupyter Notebook、WPS
+
+## 联系方式
+
+- 邮箱：2660155874@qq.com
+- 电话：13692118680
+- GitHub：[Shelly-306](https://github.com/Shelly-306)

@@ -3,9 +3,6 @@
 
 /*
  * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
 @import
@@ -37,3 +34,51 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* ==========================================================================
+   CUSTOM OVERRIDES — 马卡龙蓝绿色系
+   ========================================================================== */
+
+/* Footer background — 米白辅色 */
+.page__footer {
+    background: #F5F0EB;
+}
+
+/* Section alternation for visual rhythm */
+.page__content h2 {
+    margin-top: 2em;
+    padding-bottom: 0.3em;
+    border-bottom: 2px solid #5B8C8C;
+}
+
+/* Timeline style list items */
+.page__content ul li {
+    margin-bottom: 0.5em;
+}
+
+/* Skills table styling */
+.page__content table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.page__content table td:first-child {
+    font-weight: 600;
+    width: 30%;
+    color: #5B8C8C;
+}
+
+/* Contact links */
+.page__content a[href^="mailto"],
+.page__content a[href^="tel"] {
+    color: #5B8C8C;
+    text-decoration: none;
+}
+.page__content a[href^="mailto"]:hover,
+.page__content a[href^="tel"]:hover {
+    text-decoration: underline;
+}
+
+/* Sidebar author name */
+.author__name {
+    color: #5B8C8C;
+}

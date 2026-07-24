@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "钟咏欣 — 个人主页"
+title: "Shelly Zhong — 个人主页"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 ## 关于我
 
-我是钟咏欣，深圳大学微众金融科技专业大三学生，专注于金融与 AI 的交叉领域。我具备行业研究、数据分析与编程建模能力，关注宏观经济与金融科技前沿，希望用数据和技术解决真实的金融问题。
+我是Shelly Zhong，深圳大学微众金融科技专业大三学生，专注于金融与 AI 的交叉领域。我具备行业研究、数据分析与编程建模能力，关注宏观经济与金融科技前沿，希望用数据和技术解决真实的金融问题。
 
 ---
 
@@ -51,6 +51,6 @@ redirect_from:
 
 ## 联系方式
 
-- **邮箱**：2660155874@qq.com / zyx2661055874@gmail.com
-- **电话**：13692118680
+- **邮箱**：26601XXX74@qq.com / zyx26XXX74@gmail.com
+- **电话**：XXX-XXXX-8680
 - **GitHub**：[Shelly-306](https://github.com/Shelly-306)

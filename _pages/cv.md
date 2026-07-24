@@ -60,6 +60,6 @@ redirect_from:
 
 ## 联系方式
 
-- 邮箱：2660155874@qq.com
-- 电话：13692118680
+- 邮箱：26601XXX74@qq.com
+- 电话：XXX-XXXX-8680
 - GitHub：[Shelly-306](https://github.com/Shelly-306)

@@ -49,7 +49,7 @@ Contact（邮箱 + 电话 + GitHub）
 ## 3. 各区块详细设计
 
 ### Hero 区域
-- 显示全名：**钟咏欣（Yongxin Zhong）**
+- 显示全名：**Shelly Zhong（Yongxin Zhong）**
 - 一行副标题：微众金融科技本科生 · AI + 金融交叉领域
 - 背景：使用一张简洁的个人照片或浅色几何背景（待确认照片授权）
 
@@ -110,8 +110,8 @@ Contact（邮箱 + 电话 + GitHub）
 - 亮点课程：计算机网络（90）、宏观经济学（85）、数学建模（85）、C 语言程序设计（88）
 
 ### Contact
-- 邮箱：2660155874@qq.com / zyx2661055874@gmail.com
-- 电话：13692118680
+- 邮箱：26601XXX74@qq.com / zyx26XXX74@gmail.com
+- 电话：XXX-XXXX-8680
 - GitHub：[Shelly-306](https://github.com/Shelly-306)
 
 ## 4. 文件映射

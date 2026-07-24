@@ -54,7 +54,7 @@
 ## 5. 成功标准
 
 ### 内容标准
-- [ ] 五个核心区块（Hero、About、Experience/Projects、Skills、Contact）齐全，无任何占位文字
+- [ ] 五个核心区块（Hero、About、Experience、Projects、Skills、Contact）齐全，无任何占位文字
 - [ ] 所有经历、项目、技能均为真实内容，无虚构
 - [ ] 联系方式真实有效
 

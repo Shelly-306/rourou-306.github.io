@@ -1,13 +1,9 @@
-# Main navigation — 个人网站
 main:
   - title: "Home"
     url: /
-
   - title: "Projects"
     url: /portfolio/
-
   - title: "CV"
     url: /cv/
-
   - title: "Contact"
     url: /contact/

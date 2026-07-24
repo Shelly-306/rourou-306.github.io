@@ -74,8 +74,8 @@
 - [x] 正式链接 `https://shelly-306.github.io/rourou-306.github.io/` 可公开访问
 - [x] 正式链接已写入 `README.md`
 - [x] 正式链接已写入 `report/final-report.md`
-- [ ] TA-Claw 预览显示正确内容
-- [ ] 已收到 TA-Claw `Submitted successfully` 回执
+- [x] TA-Claw 预览显示正确内容
+- [x] 已收到 TA-Claw `Submitted successfully` 回执（submission_id: 77）
 
 **证据：** Pages 可访问截图 `screenshots/github-pages.png`
 
